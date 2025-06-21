@@ -1,0 +1,39 @@
+<mxfile host="65bd71144e">
+    <diagram id="-yid2aA2LPZ6Yue3BWdA" name="Current">
+        <mxGraphModel dx="2258" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Amazon Glacier" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.glacier;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="200" width="80" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;b&gt;ENG-NAS_0011323F1B92_1&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Size (as of last inventory)&lt;/div&gt;&lt;div&gt;238.7 GB&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;awsui_child_18582_whr0e_149&quot;&gt;&lt;div data-test-id=&quot;creation&quot;&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;Creation date&lt;/div&gt;&lt;div data-test-id=&quot;value&quot;&gt;January 1, 2020, 15:17:10 (UTC+01:00)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=2;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="200" width="310" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="EU (Stockholm) eu-north-1" style="points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.region;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="40" y="90" width="47.400000000000006" height="54.300000000000004" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;b&gt;ENG-NAS_0011323F1B92_1_mapping&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;awsui_child_18582_whr0e_149&quot;&gt;&lt;div data-test-id=&quot;size&quot;&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;Size (as of last inventory)&lt;/div&gt;&lt;div data-test-id=&quot;value&quot;&gt;25.2 MB&lt;/div&gt;&lt;div data-test-id=&quot;value&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;awsui_child_18582_whr0e_149&quot;&gt;&lt;div data-test-id=&quot;creation&quot;&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;Creation date&lt;/div&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;January 1, 2020, 15:17:10 (UTC+01:00)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;align=left;spacingLeft=2;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="200" width="310" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;b&gt;vlt01-nas-bak&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Size (as of last inventory)&lt;/div&gt;&lt;div&gt;***&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;awsui_child_18582_whr0e_149&quot;&gt;&lt;div data-test-id=&quot;creation&quot;&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;Creation date&lt;/div&gt;&lt;div class=&quot;awsui_root_18wu0_fxrr2_920 awsui_box_18wu0_fxrr2_172 awsui_key-label-variant_18wu0_fxrr2_270 awsui_color-default_18wu0_fxrr2_172 awsui_font-size-default_18wu0_fxrr2_188 awsui_font-weight-default_18wu0_fxrr2_228&quot;&gt;January 1, 2020, 15:00:29 (UTC+01:00)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;spacingLeft=2;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="360" width="310" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="bddy7h2Hi-ZmQLiNzqz8" name="S3 Standard-IA">
+        <mxGraphModel dx="1323" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="eH1VCZnyJ40CKTWU93U9-1" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="120" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="eH1VCZnyJ40CKTWU93U9-2" value="S3 Standard - Infrequent Access (S3 Standard-IA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="370" y="120" width="300" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
